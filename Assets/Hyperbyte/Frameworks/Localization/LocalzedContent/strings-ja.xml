@@ -1,0 +1,103 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Resources>	
+	<!-- Common-->
+	<string name = "txtDataPrivacy" text = "個人情報"/>
+	<string name = "txtPrivacyPolicy" text = "プライバシーポリシー"/>
+	<string name = "txtContinue" text = "継続する"/>
+	<string name = "txtHome" text = "ホーム"/>
+	<string name = "txtOk" text = "OK"/>
+	<string name = "txtYes" text = "はい"/>
+	<string name = "txtNo" text = "いいえ"/>
+	<string name = "txtNote" text = "Tips!"/>
+	<string name = "txtSuccess" text = "成功!"/>
+	<string name = "txtAlert" text = "警告!"/>
+	<string name = "txtOops" text = "残念!"/>
+	<string name = "txtOutOfGemsTitle" text = "外へ宝石!"/>
+	<string name = "txtFreeGems" text = "無料の宝石!"/>
+    <string name = "txtAwesome" text = "素晴らしい!"/>
+    
+	<!-- Consent Setting -->
+	<string name = "txtNotNow" text = "今じゃない"/>
+	<string name = "txtDataSetting_content1" text = "ユーザーのプライバシーとデータセキュリティを構います。広告を掲載することでアプリを無料にしています."/>
+	<string name = "txtDataSetting_content2" text = "あなたのデータを使ってターゲティング広告を続けられるでしょうか?"/>
+	<string name = "txtDataSetting_content3" text = "アプリの設定からいつでも選択が変更できます。当社のパートナーはデータを収集し、ユニークな識別子を使用してお客様のデバイスにお客様の広告を表示します。このアプリとパートナーがどのようにデータを収集して使用するかについて詳しく知りましょう。 :"/>
+
+	<!-- Tutorial Text -->
+	<string name = "txtTutorial1" text = "ブロックをハイライトエリアに置いてください."/>
+	<string name = "txtTutorial2" text = "素晴らしい, 次に、行全体を完成してクリアします."/>
+	<string name = "txtTutorial3" text = "もう一回やりましょう"/>
+	<string name = "txtTutorial4" text = "よし，始まるぞ!"/>
+
+	<!-- Shop -->
+	<string name = "txtShop" text = "ショップ"/>
+	<string name = "txtRemoveAds" text = "広告を非表示にする!"/>
+	<string name = "txtRestorePurchases" text = "購入記録の復元"/>
+	<string name = "txtGems_FR" text = "{0} 宝石"/>
+	<string name = "txtExtra_FR" text = "{0}% エクストラ"/>
+	<string name = "txtGetFree" text = "無料で獲得する"/>
+
+	<!-- Home Screen -->
+	<string name = "txtTitle" text = "HEXA PUZZLE"/>
+	<string name = "txtPlay" text = "PLAY"/>
+    
+    <!-- Select Mode Screen -->
+    <string name = "txtSelectMode" text = "モード選択"/>
+    <string name = "txtClassicMode" text = "CLASSIC　モード"/>
+    <string name = "txtTimeMode" text = "TIME　モード"/>
+    <string name = "txtBlastMode" text = "BLAST　モード"/>
+    <string name = "txtAdvanceMode" text = "ADVANCE モード"/>
+    
+    <!-- Pause Screen -->
+    <string name = "txtGamePaused" text = "一時停止!"/>
+    
+	<!-- Setting Screen -->
+	<string name = "txtSettings" text = "設定"/>
+	<string name = "txtSoundEffect" text = "声"/>
+	<string name = "txtMusicEffect" text = "音楽"/>
+	<string name = "txtVibration" text = "バイブレーション"/>
+	<string name = "txtSelectLang" text = "言語"/>
+	<string name = "txtNotitications" text = "通知"/>
+	<string name = "txtSupport" text = "サポート"/>
+    
+    <!-- Select Theme Screen -->
+    <string name = "txtSelectTheme" text = "SELECT THEME"/>
+	<string name = "txtActive" text = "有効"/>
+	<string name = "txtUnlock" text = "アンロック"/>
+	<string name = "txtSelect" text = "選択"/>
+
+	<!-- Review Screen -->
+	<string name = "txtEnjoyingGame" text = "楽しんでいますか?"/>
+	<string name = "txtRateContent" text = "レビューを記入していただけないでしょうか？"/>
+	<string name = "txtSubmit" text = "確認"/>
+
+	<!-- Daily Rewards -->
+	<string name = "txtDailyRewards" text = "毎日報酬"/>
+	<string name = "txtDay_FR" text = " {0}日目"/>
+
+	<!-- Purchase Screen -->
+	<string name = "txtInappSuccessMsg" text = "報酬を受け取りました!"/>
+	<string name = "txtInAppRestored" text = "正常に復元されました"/>
+	<string name = "txtNoRestore" text = "復元する購入履歴はありません."/>
+	<string name = "txtPurchaseFail" text = "購入に問題が発生しました。もう一度やり直してください。"/>
+
+	<!-- Game Tips -->
+	<string name = "txtBombTip" text = "TIP : 爆発する前に爆弾をクリアしてください！"/>
+	<string name = "txtTimeTip1" text = "TIP : 時間をご注意ください！"/>
+	<string name = "txtTimeTip2" text = "TIP : 行をクリアすると時間が増加します。"/>
+
+	<!-- Game Over -->
+	<string name = "txtGameOver" text = "GAME OVER"/>
+	<string name = "txtGameOver_gridfull" text = "OUT OF MOVE!"/>
+	<string name = "txtGameOver_bombexplode" text = "爆発しました!"/>
+	<string name = "txtGameOver_timeover" text = "時間切れ!"/>
+
+	<!-- RESCUE -->
+	<string name = "txtDontgiveup" text = "頑張れ, もう一度チャンスがあります!"/>
+
+	<!-- Quit Game -->
+	<string name = "txtQuitTitle" text = "終了確認!"/>
+	<string name = "txtQuitConfirm" text = "ゲームを終了しますか?"/>
+
+	<!--FREE GEMS POPUP-->
+	<string name = "txtOutOfGems" text = "残念！不足しているようです!"/>
+</Resources>

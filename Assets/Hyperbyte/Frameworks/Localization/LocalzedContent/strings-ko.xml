@@ -1,0 +1,127 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Resources>	
+	<!-- Common-->
+	<string name = "txtDataPrivacy" text = "데이터 프라이버시"/>
+	<string name = "txtPrivacyPolicy" text = "프라이버시 정책"/>
+	<string name = "txtContinue" text = "계속"/>
+	<string name = "txtHome" text = "사이트"/>
+	<string name = "txtOk" text = "확인"/>
+	<string name = "txtYes" text = "네"/>
+	<string name = "txtNo" text = "아니다"/>
+	<string name = "txtNote" text = "조심!"/>
+	<string name = "txtSuccess" text = "성공!"/>
+	<string name = "txtAlert" text = "경보!"/>
+	<string name = "txtOops" text = "나가 보석!"/>
+	<string name = "txtOutOfGemsTitle" text = "게임 끝내기!"/>
+	<string name = "txtFreeGems" text = "공짜 게임!"/>
+    <string name = "txtAwesome" text = "정말 대단 하구나.!"/>
+    
+	<!-- Consent Setting -->
+	<string name = "txtNotNow" text = "Not Now"/>
+	<string name = "txtDataSetting_content1" text = "우리는 여러분의 프라이버시와 데이터 보안에 대한 관심을 가지고 있습니다."/>
+	<string name = "txtDataSetting_content2" text = "여러분의 데이터에 맞춰 맞춤형 광고를 계속할 수 있을까요?"/>
+	<string name = "txtDataSetting_content3" text = "프로그램 설정을 통해 선택을 변경할 수 있습니다.파트너로서 정보를 수집하고 독특한 식별자를 통해 장치를 통해 광고를 표시합니다.이 앱과 파트너들이 어떻게 정보를 수집하고 사용하는지 더 알아보기 :"/>
+
+	<!-- Tutorial Text -->
+	<string name = "txtTutorial1" text = "목재를 밝은 곳에 배치하다."/>
+	<string name = "txtTutorial2" text = "끝내주네요. 이제 한 줄다 지우고."/>
+	<string name = "txtTutorial3" text = "다시 시도해보죠.."/>
+	<string name = "txtTutorial4" text = "좋아요. 시작합시다.!"/>
+
+	<!-- Shop -->
+	<string name = "txtShop" text = "중지"/>
+	<string name = "txtRemoveAds" text = "삭제 ADS!"/>
+	<string name = "txtRestorePurchases" text = "구매를 재개하다"/>
+	<string name = "txtGems_FR" text = "{0} 보석"/>
+	<string name = "txtExtra_FR" text = "{0}% 여분의"/>
+	<string name = "txtGetFree" text = "무료 제공"/>
+
+	<!-- Home Screen -->
+	<string name = "txtTitle" text = "HEXA PUZZLE"/>
+	<string name = "txtPlay" text = "PLAY"/>
+    
+    <!-- Select Mode Screen -->
+    <string name = "txtSelectMode" text = "선택 모드"/>
+    <string name = "txtClassicMode" text = "클래식 모드"/>
+    <string name = "txtTimeMode" text = "시간 모드"/>
+    <string name = "txtBlastMode" text = "폭발 모드"/>
+    <string name = "txtAdvanceMode" text = "추진 모드"/>
+    
+    <!-- Pause Screen -->
+    <string name = "txtGamePaused" text = "게임 일시 정지!"/>
+    
+	<!-- Setting Screen -->
+	<string name = "txtSettings" text = "설정"/>
+	<string name = "txtSoundEffect" text = "소리 효과"/>
+	<string name = "txtMusicEffect" text = "음악의 영향"/>
+	<string name = "txtVibration" text = "진동"/>
+	<string name = "txtSelectLang" text = "언어"/>
+	<string name = "txtNotitications" text = "통지"/>
+	<string name = "txtSupport" text = "도움"/>
+    
+    <!-- Select Theme Screen -->
+    <string name = "txtSelectTheme" text = "테마 선택"/>
+	<string name = "txtActive" text = "효과적인"/>
+	<string name = "txtUnlock" text = "잠금 해제"/>
+	<string name = "txtSelect" text = "선택"/>
+
+	<!-- Review Screen -->
+	<string name = "txtEnjoyingGame" text = "너 이게임 즐거웠니?"/>
+	<string name = "txtRateContent" text = "이것에 대한 평가를 좀 적어 주시겠습니까?"/>
+	<string name = "txtSubmit" text = "확인"/>
+
+	<!-- Daily Rewards -->
+	<string name = "txtDailyRewards" text = "일일 보수"/>
+	<string name = "txtDay_FR" text = "다음날"/>
+
+	<!-- Purchase Screen -->
+	<string name = "txtInappSuccessMsg" text = "보상을 받을 수 있었습니다!"/>
+	<string name = "txtInAppRestored" text = "적용 후 복구 성공."/>
+	<string name = "txtNoRestore" text = "어플리케이션에서 복구하지 않음."/>
+	<string name = "txtPurchaseFail" text = "당신의 구매에 문제가 생겼다.나중에 다시 시도해 주세요."/>
+
+	<!-- Game Tips -->
+	<string name = "txtBombTip" text = "TIP : 폭발 전에 폭탄을 지우다!"/>
+	<string name = "txtTimeTip1" text = "TIP : 시간을 주의하다!"/>
+	<string name = "txtTimeTip2" text = "TIP : 라인 제거용 타이머 증가!"/>
+
+	<!-- Game Over -->
+	<string name = "txtGameOver" text = "GAME OVER"/>
+	<string name = "txtGameOver_gridfull" text = "OUT OF MOVE!"/>
+	<string name = "txtGameOver_bombexplode" text = "BOMB EXPLODED!"/>
+	<string name = "txtGameOver_timeover" text = "TIME OVER!"/>
+
+	<!-- RESCUE -->
+	<string name = "txtDontgiveup" text = "포기하지마, 너에게 아직 한 번의 기회가 있다!"/>
+
+	<!-- Quit Game -->
+	<string name = "txtQuitTitle" text = " 종료 확인!"/>
+	<string name = "txtQuitConfirm" text = "게임을 종료하시겠습니까??"/>
+
+	<!--FREE GEMS POPUP-->
+	<string name = "txtOutOfGems" text = "오!당신은 마치 돈이 없는 것 같습니다.!"/>
+</Resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
